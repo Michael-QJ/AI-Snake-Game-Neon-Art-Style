@@ -1,0 +1,6 @@
+{
+  "name": "Neon Synth Snake",
+  "description": "An immersive synthwave music player integrated with a neon-drenched retro Snake game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
